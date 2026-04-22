@@ -1,50 +1,36 @@
-# e-commerce-project
+# Vue.js E-Commerce Web Application
 
-This template should help get you started developing with Vue 3 in Vite.
+## 📌 Overview
+A responsive e-commerce web application built using Vue.js with modern UI design and state management.  
+The project simulates a real online store experience.
 
-## Recommended IDE Setup
+---
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 🚀 Features
+- Product categories system
+- Featured and new products sections
+- Product listing with dynamic UI
+- Shopping cart functionality
+- Contact section
+- Swiper-based product sliders
+- Fully responsive design
 
-## Recommended Browser Setup
+---
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) 
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+## 🛠️ Technologies
+- Vue.js (Options API)
+- Pinia (State Management)
+- Vuetify (UI Framework)
+- Swiper.js
+- Firebase Hosting
+- Git & GitHub
 
-## Customize configuration
+---
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## 🌐 Live Demo
+https://e-commerce-project-82d51.web.app/
 
-## Project Setup
+---
 
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Run Unit Tests with [Vitest](https://vitest.dev/)
-
-```sh
-npm run test:unit
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+## 🔗 Repository
+https://github.com/sa-alburaikie/e_commerce-web-store
